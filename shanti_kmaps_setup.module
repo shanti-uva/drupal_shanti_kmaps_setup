@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Shanti Kmaps Setup feature.
+ */
+
+include_once 'shanti_kmaps_setup.features.inc';
